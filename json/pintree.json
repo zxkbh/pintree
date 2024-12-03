@@ -26,6 +26,398 @@
         "url": "https://twitter.com/home"
       },
       {
+        "type": "folder",
+        "addDate": 1721028293964,
+        "title": "谷歌浏览器扩展",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1721028280696,
+            "title": "xuejianxianzun/PixivBatchDownloader: Chrome 扩展，批量下载 Pixiv 的插画和小说。过滤作品、下载时重命名、转换动态图片等。Powerful Pixiv batch downloader. Batch download artworks and novels, filter works, rename when downloading, convert animated images, and more.",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/xuejianxianzun/PixivBatchDownloader"
+          },
+          {
+            "type": "link",
+            "addDate": 1721093831356,
+            "title": "justjavac/ReplaceGoogleCDN: ⚡️ 一个 Chrome 插件：将 Google CDN 替换为国内的。",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/justjavac/ReplaceGoogleCDN"
+          },
+          {
+            "type": "link",
+            "addDate": 1721367828306,
+            "title": "code-charity/youtube: [top~1 open YouTube & Video web-extension] Enrich your experience & choice! 🧰180+ options & clever features📌set+forget📌Longest-standing(yet rare&tough alone. Please help/join🧩us👨‍👩‍👧‍👧) ..⋮ {playback|content discovery|player|extra buttons|distractions|related videos|shorts|ads|quality|codec|full tab|full screen}",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/code-charity/youtube"
+          },
+          {
+            "type": "link",
+            "addDate": 1721697882114,
+            "title": "第11期：GPT-4o mini：速度更快，价格更低 | 信息差——独立开发者出海周刊",
+            "icon": "https://logo.clearbit.com/gapis.money",
+            "url": "https://gapis.money/weekly/2024-07-22_011?utm_source=x1"
+          },
+          {
+            "type": "link",
+            "addDate": 1722330215034,
+            "title": "Using VS Code Pets - VS Code Pets documentation",
+            "icon": "https://logo.clearbit.com/tonybaloney.github.io",
+            "url": "https://tonybaloney.github.io/vscode-pets/usage.html#themes"
+          },
+          {
+            "type": "link",
+            "addDate": 1722330230799,
+            "title": "vscode-pets/src/extension/extension.ts at main · tonybaloney/vscode-pets",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/tonybaloney/vscode-pets/blob/main/src/extension/extension.ts"
+          },
+          {
+            "type": "link",
+            "addDate": 1723715745985,
+            "title": "rNeomy/auto-tab-discard: Use native tab discarding method to automatically reduce memory usage of inactive tabs",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/rNeomy/auto-tab-discard"
+          },
+          {
+            "type": "link",
+            "addDate": 1724727481747,
+            "title": "tonystark93/crx-download: Download CRX files as zip or directly.",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/tonystark93/crx-download"
+          },
+          {
+            "type": "link",
+            "addDate": 1724728734188,
+            "title": "suxiaogang/WeiboPicBed: 新浪微博图床 Chrome扩展",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/suxiaogang/WeiboPicBed"
+          },
+          {
+            "type": "link",
+            "addDate": 1724728741448,
+            "title": "Semibold/Weibo-Picture-Store: 🖼 新浪微博图床 Chrome/Firefox 扩展，支持同步到微相册",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/Semibold/Weibo-Picture-Store"
+          },
+          {
+            "type": "link",
+            "addDate": 1724729208851,
+            "title": "didierfred/SimpleModifyHeaders: Extension for firefox and chrome to modify headers",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/didierfred/SimpleModifyHeaders"
+          },
+          {
+            "type": "link",
+            "addDate": 1724827706352,
+            "title": "Google",
+            "icon": "https://logo.clearbit.com/www.google.com.hk",
+            "url": "https://www.google.com.hk/"
+          },
+          {
+            "type": "link",
+            "addDate": 1724848115573,
+            "title": "Isocons",
+            "icon": "https://logo.clearbit.com/www.isocons.app",
+            "url": "https://www.isocons.app/"
+          },
+          {
+            "type": "link",
+            "addDate": 1724894989646,
+            "title": "pudongping/mp-vx-insight: 微信公众号小助手，扩展了一键获取微信公众号文章封面图、全部文章、一键采集文章内容等功能。",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/pudongping/mp-vx-insight"
+          },
+          {
+            "type": "link",
+            "addDate": 1724895159849,
+            "title": "timing71/chrome: Timing71 browser extension for Google Chrome",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/timing71/chrome"
+          },
+          {
+            "type": "link",
+            "addDate": 1724895300661,
+            "title": "ServiceWorker is shut down every 5 minutes for manifest V3 extension [40733525] - Chromium",
+            "icon": "https://logo.clearbit.com/issues.chromium.org",
+            "url": "https://issues.chromium.org/issues/40733525"
+          },
+          {
+            "type": "link",
+            "addDate": 1724895502061,
+            "title": "inbasic/bookmarks-manager: A decent cross-browser bookmarks manager and viewer",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/inbasic/bookmarks-manager"
+          },
+          {
+            "type": "link",
+            "addDate": 1724897249528,
+            "title": "API reference  |  Chrome for Developers",
+            "icon": "https://logo.clearbit.com/developer.chrome.com",
+            "url": "https://developer.chrome.com/docs/extensions/reference/api"
+          },
+          {
+            "type": "link",
+            "addDate": 1724901031821,
+            "title": "Migrate to Manifest V3  |  Chrome Extensions  |  Chrome for Developers",
+            "icon": "https://logo.clearbit.com/developer.chrome.com",
+            "url": "https://developer.chrome.com/docs/extensions/develop/migrate"
+          },
+          {
+            "type": "link",
+            "addDate": 1724925062474,
+            "title": "groton-school/blackbaud-upload-mp3-name-pronunciation: Insert pre-recorded name pronunciations into Blackbaud via the admin UI",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/groton-school/blackbaud-upload-mp3-name-pronunciation"
+          },
+          {
+            "type": "link",
+            "addDate": 1725011962199,
+            "title": "jasonlong/isometric-contributions: Browser extension for rendering an isometric pixel art version of your GitHub contribution graph.",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/jasonlong/isometric-contributions"
+          },
+          {
+            "type": "link",
+            "addDate": 1725011967549,
+            "title": "g1eny0ung/github-colorful-contributions-graph: :green_heart: :purple_heart: :heart: A Chrome extension for customizing the colors of the GitHub contributions graph.",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/g1eny0ung/github-colorful-contributions-graph"
+          },
+          {
+            "type": "link",
+            "addDate": 1725430982931,
+            "title": "Sound Booster - Volume Control Center",
+            "icon": "https://logo.clearbit.com/boostmysound.com",
+            "url": "https://boostmysound.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1725431236130,
+            "title": "Sound Booster Installation Successful",
+            "icon": "https://logo.clearbit.com/exttab.com",
+            "url": "https://exttab.com/?p=eyJ0aXRsZSI6IlNvdW5kIEJvb3N0ZXIiLCJpZCI6Im1obGZoZHBmbmdjaWViY2FtamdtZ25tYW5sa2VlZ29sIn0%3D"
+          },
+          {
+            "type": "link",
+            "addDate": 1725431263495,
+            "title": "整页截图 - Chrome 应用商店",
+            "icon": "https://logo.clearbit.com/chromewebstore.google.com",
+            "url": "https://chromewebstore.google.com/detail/%E6%95%B4%E9%A1%B5%E6%88%AA%E5%9B%BE/aecnmadngpjbokeakinhbgfanlnjdnom"
+          },
+          {
+            "type": "link",
+            "addDate": 1725431551640,
+            "title": "Controls for Instagram Videos - Chrome 应用商店",
+            "icon": "https://logo.clearbit.com/chromewebstore.google.com",
+            "url": "https://chromewebstore.google.com/detail/controls-for-instagram-vi/eigfbedabacomcacemdnkelnlhgbiacn"
+          },
+          {
+            "type": "link",
+            "addDate": 1725431639162,
+            "title": "音量大师：掌控你的声音 - Chrome 应用商店",
+            "icon": "https://logo.clearbit.com/chromewebstore.google.com",
+            "url": "https://chromewebstore.google.com/detail/%E9%9F%B3%E9%87%8F%E5%A4%A7%E5%B8%88%EF%BC%9A%E6%8E%8C%E6%8E%A7%E4%BD%A0%E7%9A%84%E5%A3%B0%E9%9F%B3/eoejmjkddfbhhnbmklhccnppogeaeeah"
+          },
+          {
+            "type": "link",
+            "addDate": 1725431734101,
+            "title": "音量控制器 - Chrome 应用商店",
+            "icon": "https://logo.clearbit.com/chromewebstore.google.com",
+            "url": "https://chromewebstore.google.com/detail/%E9%9F%B3%E9%87%8F%E6%8E%A7%E5%88%B6%E5%99%A8/aiojhbmmflaiogelncfofmahkcmlpmlo"
+          },
+          {
+            "type": "link",
+            "addDate": 1725525736279,
+            "title": "NicoleRobin/one-click-screenshot: one click screen shot",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/NicoleRobin/one-click-screenshot"
+          },
+          {
+            "type": "link",
+            "addDate": 1725526326728,
+            "title": "Browser Boost - 额外工具 - Chrome 应用商店",
+            "icon": "https://logo.clearbit.com/chromewebstore.google.com",
+            "url": "https://chromewebstore.google.com/detail/browser-boost-%E9%A2%9D%E5%A4%96%E5%B7%A5%E5%85%B7/akknpgblpchaoebdoiojonnahhnfgnem"
+          },
+          {
+            "type": "link",
+            "addDate": 1725527136171,
+            "title": "BrowserBoost/Extension：浏览器扩展，可提高音量、更改用户代理、启用右键单击、复制和选择、禁用 WebRTC 以及将图像保存为类型（JPG、PNG 和 WebP）。 --- BrowserBoost/Extension: Browser extension to boost volume, change user agent, enable right click, copy & select, disable WebRTC, and save image as type (JPG, PNG & WebP).",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/BrowserBoost/Extension"
+          },
+          {
+            "type": "link",
+            "addDate": 1725529545775,
+            "title": "SamuelScheit/puppeteer-stream: A Library for puppeteer to retrieve audio and/or video streams",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/SamuelScheit/puppeteer-stream"
+          },
+          {
+            "type": "link",
+            "addDate": 1725531013092,
+            "title": "aws-samples/aws-transcribe-translate-summarize-live-streams-in-browser --- aws-samples/aws-transcribe-translate-summarize-live-streams-in-browser",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/aws-samples/aws-transcribe-translate-summarize-live-streams-in-browser"
+          },
+          {
+            "type": "link",
+            "addDate": 1725587064633,
+            "title": "ChristianE00/AudioKit：一个轻量级的开源网络浏览器扩展，用于调整音量和均衡声音。它在构建时考虑到了性能和效率，设计用于高端和低端硬件。欢迎贡献和拉取请求！ --- ChristianE00/AudioKit: A lightweight, open-source web browser extension for adjusting volume and equalizing sound. Built with performance and efficiency in mind, it's designed to work on both high-end and low-end hardware. Contributions and pull requests welcome!",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/ChristianE00/AudioKit"
+          },
+          {
+            "type": "link",
+            "addDate": 1725933655568,
+            "title": "yhl452493373/DownloadManager: 适用于google内核的下载管理器",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/yhl452493373/DownloadManager"
+          },
+          {
+            "type": "link",
+            "addDate": 1726039452719,
+            "title": "shaka-project/eme_logger: Logs Encrypted Media Extension (EME) events and calls to help investigate issues in premium media sites.",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/shaka-project/eme_logger"
+          },
+          {
+            "type": "link",
+            "addDate": 1726814553205,
+            "title": "sixem/tiktok-download-buttons: Adds download buttons to the web version of TikTok",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/sixem/tiktok-download-buttons"
+          },
+          {
+            "type": "link",
+            "addDate": 1726836603262,
+            "title": "TheUndo/m3u8：从 m3u8 播放列表下载分段视频（.ts）并将分段合并为一个视频（.mp4/.mv4/.*）文件进行保存 --- TheUndo/m3u8: Download segmented video (.ts) from m3u8 playlist and merge the segments into one video (.mp4/.mv4/.*) file for saving",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/TheUndo/m3u8"
+          },
+          {
+            "type": "link",
+            "addDate": 1727055850155,
+            "title": "图片下载 v2 PactInteractive/image-downloader: Download images from the web more easily. A browser extension for Google Chrome, Microsoft Edge, and Brave.",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/PactInteractive/image-downloader"
+          },
+          {
+            "type": "link",
+            "addDate": 1727084686836,
+            "title": "unintended/download-organizer-chrome-extension: Chrome extesion that allows you to set custom download locations with a flexible regexp-based rules.",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/unintended/download-organizer-chrome-extension"
+          },
+          {
+            "type": "link",
+            "addDate": 1727228435136,
+            "title": "screenity/package.json at master · alyssaxuu/screenity",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/alyssaxuu/screenity/blob/master/package.json"
+          },
+          {
+            "type": "link",
+            "addDate": 1727228861373,
+            "title": "alyssaxuu/screenity: The free and privacy-friendly screen recorder with no limits 🎥",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/alyssaxuu/screenity"
+          },
+          {
+            "type": "link",
+            "addDate": 1727229140293,
+            "title": "mrcoles/full-page-screen-capture-chrome-extension: One-click full page screen captures in Google Chrome",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/mrcoles/full-page-screen-capture-chrome-extension"
+          },
+          {
+            "type": "link",
+            "addDate": 1728282879414,
+            "title": "gildas-lormeau/SingleFile: Web Extension for saving a faithful copy of a complete web page in a single HTML file",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/gildas-lormeau/SingleFile"
+          },
+          {
+            "type": "link",
+            "addDate": 1728538924874,
+            "title": "violentmonkey/violentmonkey: Violentmonkey provides userscripts support for browsers. It works on browsers with WebExtensions support.",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/violentmonkey/violentmonkey"
+          },
+          {
+            "type": "link",
+            "addDate": 1728870243030,
+            "title": "飞书文档转markdownlujunji4113/cloud-document-converter: Convert Lark Doc to Markdown",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/lujunji4113/cloud-document-converter/tree/main"
+          },
+          {
+            "type": "link",
+            "addDate": 1728876589466,
+            "title": "视频全屏 ettoolong/MaximizeVideo: Firefox add-on Maximize HTML5/Flash video and fill current tab.",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/ettoolong/MaximizeVideo"
+          },
+          {
+            "type": "link",
+            "addDate": 1728876699586,
+            "title": "turnoffthelights/Browser-Extensions",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/turnoffthelights/Browser-Extensions"
+          },
+          {
+            "type": "link",
+            "addDate": 1728876743282,
+            "title": "BigTube - Better Youtube Theater Mode & More - Chrome 应用商店",
+            "icon": "https://logo.clearbit.com/chromewebstore.google.com",
+            "url": "https://chromewebstore.google.com/detail/bigtube-better-youtube-th/gdkadbhiemijfpoochcieonikoaciapi"
+          },
+          {
+            "type": "link",
+            "addDate": 1728895165216,
+            "title": "Equalizer for Chrome Browser - Chrome 应用商店",
+            "icon": "https://logo.clearbit.com/chromewebstore.google.com",
+            "url": "https://chromewebstore.google.com/detail/equalizer-for-chrome-brow/abikfbojmghmfjdjlbagiamkinbmbaic"
+          },
+          {
+            "type": "link",
+            "addDate": 1728956721633,
+            "title": "飞书文档转Markdownlujunji4113/cloud-document-converter: Convert Lark Doc to Markdown",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/lujunji4113/cloud-document-converter"
+          },
+          {
+            "type": "link",
+            "addDate": 1729482153294,
+            "title": "运行时.onMessage - Mozilla | MDN --- runtime.onMessage - Mozilla | MDN",
+            "icon": "https://logo.clearbit.com/developer.mozilla.org",
+            "url": "https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/API/runtime/onMessage#message"
+          },
+          {
+            "type": "link",
+            "addDate": 1729567179903,
+            "title": "VM虚拟机配置动态ip和静态ip访问_虚拟机动态ip-CSDN博客",
+            "icon": "https://logo.clearbit.com/zhanjq.blog.csdn.net",
+            "url": "https://zhanjq.blog.csdn.net/article/details/108674389?spm=1001.2101.3001.6650.11&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7ERate-11-108674389-blog-116517825.235%5Ev43%5Epc_blog_bottom_relevance_base1&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7ERate-11-108674389-blog-116517825.235%5Ev43%5Epc_blog_bottom_relevance_base1&utm_relevant_index=19"
+          },
+          {
+            "type": "link",
+            "addDate": 1729576481582,
+            "title": "Laravel 密码管理器 eusonlito/Password-Manager：基于 Laravel 10 + PHP 8 + MySQL 8 的自托管密码管理器。基于 Laravel 10 + PHP 8 + MySQL 8 的密码管理器。 --- eusonlito/Password-Manager: Self-hosted Password Manager based on Laravel 10 + PHP 8 + MySQL 8. Gestor de Contraseñas basado en Laravel 10 + PHP 8 + MySQL 8.",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/eusonlito/Password-Manager"
+          },
+          {
+            "type": "link",
+            "addDate": 1729736932629,
+            "title": "ray-lothian/UserAgent-Switcher: A User-Agent spoofer browser extension that is highly configurable",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/ray-lothian/UserAgent-Switcher"
+          }
+        ]
+      },
+      {
         "type": "link",
         "addDate": 1641797321427,
         "title": "扩展程序",
@@ -38,6 +430,83 @@
         "title": "YouTube",
         "icon": "https://logo.clearbit.com/www.youtube.com",
         "url": "https://www.youtube.com/"
+      },
+      {
+        "type": "folder",
+        "addDate": 1721871167418,
+        "title": "登录",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1649657873112,
+            "title": "线上环境一键登录",
+            "icon": "https://logo.clearbit.com/",
+            "url": "javascript:(function(){  let code = prompt('%E8%AF%B7%E8%BE%93%E5%85%A5%E9%AA%8C%E8%AF%81%E7%A0%81');  document.querySelector('.user-icon').querySelector('.input-box').value=13316912760;  document.querySelector('.user-icon').querySelector('.input-box').dispatchEvent(new Event('input'));document.querySelector('.user-id-m').querySelector('.input-box').value='1';  document.querySelector('.user-id-m').querySelector('.input-box').dispatchEvent(new Event('input'));    document.querySelector('.password-icon').querySelector('.input-box').value='Zxk@123456';  document.querySelector('.password-icon').querySelector('.input-box').dispatchEvent(new Event('input'));  document.querySelector('.verification-icon').querySelector('.input-box').value=code;  document.querySelector('.verification-icon').querySelector('.input-box').dispatchEvent(new Event('input'));  document.querySelector('.sign-in').click();setTimeout(()=>{document.querySelector('.auth-code').click()},1000);})();"
+          },
+          {
+            "type": "link",
+            "addDate": 1720605720346,
+            "title": "[Jenkins]登录",
+            "icon": "https://logo.clearbit.com/",
+            "url": "javascript:(function(){document.querySelector('input[name=\"j_username\"]').value=\"test\";document.querySelector('input[name=\"j_password\"]').value ='testrondaful';document.querySelector('.jenkins-checkbox').click();document.querySelector('.jenkins-button').click();})();"
+          },
+          {
+            "type": "link",
+            "addDate": 1720605437783,
+            "title": "禅道登录",
+            "icon": "https://logo.clearbit.com/",
+            "url": "javascript:(function(){document.querySelector('.form-control[name=\"account\"]').value=\"zhuxiaokai\";document.querySelector('.form-control[name=\"password\"]').value ='ZxK&123.';document.querySelector('.checkbox-primary').click(); document.querySelector(\"#submit%22).click();})();"
+          },
+          {
+            "type": "link",
+            "addDate": 1649657280706,
+            "title": "开发测试环境一键登录",
+            "icon": "https://logo.clearbit.com/",
+            "url": "javascript:(function(){let code=prompt(\"%E8%AF%B7%E8%BE%93%E5%85%A5%E9%AA%8C%E8%AF%81%E7%A0%81\");document.querySelector(\".user-icon\").querySelector(\".input-box\").value=\"zhuxiaokai\";document.querySelector(\".user-icon\").querySelector(\".input-box\").dispatchEvent(new Event(\"input\"));document.querySelector(\".user-id-m\").querySelector(\".input-box\").value=\"1000\";document.querySelector(\".user-id-m\").querySelector(\".input-box\").dispatchEvent(new Event(\"input\"));document.querySelector(\".password-icon\").querySelector(\".input-box\").value=\"ZXK123456\";document.querySelector(\".password-icon\").querySelector(\".input-box\").dispatchEvent(new Event(\"input\"));document.querySelector(\".verification-icon\").querySelector(\".input-box\").value=code;document.querySelector(\".verification-icon\").querySelector(\".input-box\").dispatchEvent(new Event(\"input\"));document.querySelector(\".sign-in\").click();setTimeout(()=>{document.querySelector('.auth-code').click()},1000);})();"
+          },
+          {
+            "type": "link",
+            "addDate": 1708154360803,
+            "title": "线上PDA登录",
+            "icon": "https://logo.clearbit.com/",
+            "url": "javascript:(function(){let code = prompt('%E8%AF%B7%E8%BE%93%E5%85%A5%E9%AA%8C%E8%AF%81%E7%A0%81');document.querySelectorAll('.form_input')[0].value=1;document.querySelectorAll('.form_input')[0].dispatchEvent(new Event('input'));document.querySelectorAll('.form_input')[1].value=13316912760;document.querySelectorAll('.form_input')[1].dispatchEvent(new Event('input'));document.querySelectorAll('.form_input')[2].value='Zxk@123456';document.querySelectorAll('.form_input')[2].dispatchEvent(new Event('input'));document.querySelectorAll('.form_input')[3].value=code;document.querySelectorAll('.form_input')[3].dispatchEvent(new Event('input'));document.querySelector('.ui_btn').click();})();"
+          },
+          {
+            "type": "link",
+            "addDate": 1642250573509,
+            "title": "设置页面不可编辑",
+            "icon": "https://logo.clearbit.com/",
+            "url": "javascript:(function(){document.designMode = \"off\"})()"
+          },
+          {
+            "type": "link",
+            "addDate": 1642250349844,
+            "title": "设置页面可编辑",
+            "icon": "https://logo.clearbit.com/",
+            "url": "javascript:(function(){document.designMode = \"on\"})()"
+          },
+          {
+            "type": "link",
+            "addDate": 1653299534065,
+            "title": "网页文字不能复制",
+            "icon": "https://logo.clearbit.com/",
+            "url": "javascript:(function(){document.designMode = 'on'})()"
+          },
+          {
+            "type": "link",
+            "addDate": 1622439874573,
+            "title": "网页还原不可复制",
+            "icon": "https://logo.clearbit.com/",
+            "url": "javascript:(function(){document.designMode='off'})()"
+          },
+          {
+            "type": "link",
+            "addDate": 1641953278953,
+            "title": "清除图片",
+            "icon": "https://logo.clearbit.com/",
+            "url": "javascript:(function(){\"use strict\";function clearMedia(){var doc=document.querySelectorAll(\"*\");for(var i=0;i<doc.length;i++){if(doc[i].nodeName===\"IMG\"||doc[i].nodeName===\"SVG\"){doc[i].setAttribute(\"style\",\"display:none\")}if(doc[i].nodeName===\"VIDEO\"){doc[i].setAttribute(\"style\",\"display:none\");doc[i].parentNode.setAttribute(\"style\",\"display:none\")}}}clearMedia();setInterval(clearMedia,300)})();"
+          }
+        ]
       },
       {
         "type": "folder",
@@ -841,90 +1310,811 @@
             "title": "CS50",
             "icon": "https://logo.clearbit.com/cs50.harvard.edu",
             "url": "https://cs50.harvard.edu/college/2024/fall/"
+          },
+          {
+            "type": "link",
+            "addDate": 1722949364496,
+            "title": "DecoHack | 独立产品灵感周刊",
+            "icon": "https://logo.clearbit.com/decohack.com",
+            "url": "https://decohack.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1723009488635,
+            "title": "w2solo - 独立开发者社区",
+            "icon": "https://logo.clearbit.com/w2solo.com",
+            "url": "https://w2solo.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1723009519989,
+            "title": "Reqable 类似Postmen",
+            "icon": "https://logo.clearbit.com/reqable.com",
+            "url": "https://reqable.com/en-US/"
+          },
+          {
+            "type": "link",
+            "addDate": 1723009785505,
+            "title": "AI 生成图片 black-forest-labs/flux-schnell – Run with an API on Replicate",
+            "icon": "https://logo.clearbit.com/replicate.com",
+            "url": "https://replicate.com/black-forest-labs/flux-schnell"
+          },
+          {
+            "type": "link",
+            "addDate": 1723550359339,
+            "title": "迷你Perplx --- MiniPerplx",
+            "icon": "https://logo.clearbit.com/mplx.za16.co",
+            "url": "https://mplx.za16.co/"
+          },
+          {
+            "type": "link",
+            "addDate": 1723551803051,
+            "title": "Yesicon - 精选全球高品质、开源、免费的矢量图标库",
+            "icon": "https://logo.clearbit.com/yesicon.app",
+            "url": "https://yesicon.app/"
+          },
+          {
+            "type": "link",
+            "addDate": 1724117681386,
+            "title": "投资大师都在用的顶级技术：凯利公式 - 飞书云文档",
+            "icon": "https://logo.clearbit.com/aiyanxishe.feishu.cn",
+            "url": "https://aiyanxishe.feishu.cn/wiki/SqvBw0jsYiM3ZqkXwemcWWl4nGf"
           }
         ]
       },
       {
         "type": "link",
-        "addDate": 1711628837497,
-        "title": "三体 网飞版 (更新至08) - 低端影视",
-        "icon": "https://logo.clearbit.com/ddys.pro",
-        "url": "https://ddys.pro/3-body-problem/?ep=2"
+        "addDate": 1728286473868,
+        "title": "Chrome 扩展程序  |  Chrome Extensions  |  Chrome for Developers",
+        "icon": "https://logo.clearbit.com/developer.chrome.com",
+        "url": "https://developer.chrome.com/docs/extensions?hl=zh-cn"
+      },
+      {
+        "type": "link",
+        "addDate": 1728956654635,
+        "title": "Hello 算法",
+        "icon": "https://logo.clearbit.com/www.hello-algo.com",
+        "url": "https://www.hello-algo.com/"
       },
       {
         "type": "folder",
-        "addDate": 1721871167418,
-        "title": "登录",
+        "addDate": 1723009992884,
+        "title": "github",
         "children": [
           {
             "type": "link",
-            "addDate": 1649657873112,
-            "title": "线上环境一键登录",
-            "icon": "https://logo.clearbit.com/",
-            "url": "javascript:(function(){  let code = prompt('%E8%AF%B7%E8%BE%93%E5%85%A5%E9%AA%8C%E8%AF%81%E7%A0%81');  document.querySelector('.user-icon').querySelector('.input-box').value=13316912760;  document.querySelector('.user-icon').querySelector('.input-box').dispatchEvent(new Event('input'));document.querySelector('.user-id-m').querySelector('.input-box').value='1';  document.querySelector('.user-id-m').querySelector('.input-box').dispatchEvent(new Event('input'));    document.querySelector('.password-icon').querySelector('.input-box').value='Zxk@123456';  document.querySelector('.password-icon').querySelector('.input-box').dispatchEvent(new Event('input'));  document.querySelector('.verification-icon').querySelector('.input-box').value=code;  document.querySelector('.verification-icon').querySelector('.input-box').dispatchEvent(new Event('input'));  document.querySelector('.sign-in').click();})();"
+            "addDate": 1723009982875,
+            "title": "Skyler1n/XHS_Statistics: 获取小红书创作者后台播放数据并导出xls的快捷工具",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/Skyler1n/XHS_Statistics"
           },
           {
             "type": "link",
-            "addDate": 1720605720346,
-            "title": "[Jenkins]登录",
-            "icon": "https://logo.clearbit.com/",
-            "url": "javascript:(function(){document.querySelector('input[name=\"j_username\"]').value=\"test\";document.querySelector('input[name=\"j_password\"]').value ='testrondaful';document.querySelector('.jenkins-checkbox').click();document.querySelector('.jenkins-button').click();})();"
+            "addDate": 1723010046064,
+            "title": "AI 技术发展史 | 探索 AI 技术发展历程",
+            "icon": "https://logo.clearbit.com/ai-timeline.himrr.com",
+            "url": "https://ai-timeline.himrr.com/"
           },
           {
             "type": "link",
-            "addDate": 1720605437783,
-            "title": "禅道登录",
-            "icon": "https://logo.clearbit.com/",
-            "url": "javascript:(function(){document.querySelector('.form-control[name=\"account\"]').value=\"zhuxiaokai\";document.querySelector('.form-control[name=\"password\"]').value ='ZxK&123.';document.querySelector('.checkbox-primary').click(); document.querySelector(\"#submit%22).click();})();"
+            "addDate": 1723010049500,
+            "title": "mrrhq/ai-timeline: 记录文生图、文生视频、大语言模型等 AI 相关技术在发展过程中的重要时间点",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/mrrhq/ai-timeline"
           },
           {
             "type": "link",
-            "addDate": 1649657280706,
-            "title": "开发测试环境一键登录",
-            "icon": "https://logo.clearbit.com/",
-            "url": "javascript:(function(){let code=prompt(\"%E8%AF%B7%E8%BE%93%E5%85%A5%E9%AA%8C%E8%AF%81%E7%A0%81\");document.querySelector(\".user-icon\").querySelector(\".input-box\").value=\"zhuxiaokai\";document.querySelector(\".user-icon\").querySelector(\".input-box\").dispatchEvent(new Event(\"input\"));document.querySelector(\".user-id-m\").querySelector(\".input-box\").value=\"1000\";document.querySelector(\".user-id-m\").querySelector(\".input-box\").dispatchEvent(new Event(\"input\"));document.querySelector(\".password-icon\").querySelector(\".input-box\").value=\"ZXK123456\";document.querySelector(\".password-icon\").querySelector(\".input-box\").dispatchEvent(new Event(\"input\"));document.querySelector(\".verification-icon\").querySelector(\".input-box\").value=code;document.querySelector(\".verification-icon\").querySelector(\".input-box\").dispatchEvent(new Event(\"input\"));document.querySelector(\".sign-in\").click()})();"
+            "addDate": 1723034260258,
+            "title": "Python dict 内部 Python Inside python dict — an explorable explanation",
+            "icon": "https://logo.clearbit.com/just-taking-a-ride.com",
+            "url": "https://just-taking-a-ride.com/inside_python_dict/chapter1.html"
           },
           {
             "type": "link",
-            "addDate": 1708154360803,
-            "title": "线上PDA登录",
-            "icon": "https://logo.clearbit.com/",
-            "url": "javascript:(function(){let code = prompt('%E8%AF%B7%E8%BE%93%E5%85%A5%E9%AA%8C%E8%AF%81%E7%A0%81');document.querySelectorAll('.form_input')[0].value=1;document.querySelectorAll('.form_input')[0].dispatchEvent(new Event('input'));document.querySelectorAll('.form_input')[1].value=13316912760;document.querySelectorAll('.form_input')[1].dispatchEvent(new Event('input'));document.querySelectorAll('.form_input')[2].value='Zxk@123456';document.querySelectorAll('.form_input')[2].dispatchEvent(new Event('input'));document.querySelectorAll('.form_input')[3].value=code;document.querySelectorAll('.form_input')[3].dispatchEvent(new Event('input'));document.querySelector('.ui_btn').click();})();"
+            "addDate": 1723035015284,
+            "title": "Ollama",
+            "icon": "https://logo.clearbit.com/ollama.com",
+            "url": "https://ollama.com/"
           },
           {
             "type": "link",
-            "addDate": 1642250573509,
-            "title": "设置页面不可编辑",
-            "icon": "https://logo.clearbit.com/",
-            "url": "javascript:(function(){document.designMode = \"off\"})()"
+            "addDate": 1723035046463,
+            "title": "continuedev/continue: ⏩ Continue is the leading open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside VS Code and JetBrains",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/continuedev/continue"
           },
           {
             "type": "link",
-            "addDate": 1642250349844,
-            "title": "设置页面可编辑",
-            "icon": "https://logo.clearbit.com/",
-            "url": "javascript:(function(){document.designMode = \"on\"})()"
+            "addDate": 1723466532168,
+            "title": "clapper/src/app/api/resolve/providers/aitube/index.ts at main · jbilcke-hf/clapper · GitHub",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/jbilcke-hf/clapper"
           },
           {
             "type": "link",
-            "addDate": 1653299534065,
-            "title": "网页文字不能复制",
-            "icon": "https://logo.clearbit.com/",
-            "url": "javascript:(function(){document.designMode = 'on'})()"
+            "addDate": 1723466551698,
+            "title": "大语言模型 | LLMBook-zh",
+            "icon": "https://logo.clearbit.com/llmbook-zh.github.io",
+            "url": "https://llmbook-zh.github.io/"
           },
           {
             "type": "link",
-            "addDate": 1622439874573,
-            "title": "网页还原不可复制",
-            "icon": "https://logo.clearbit.com/",
-            "url": "javascript:(function(){document.designMode='off'})()"
+            "addDate": 1723466556070,
+            "title": "GitHub - Stirling-Tools/Stirling-PDF: #1 Locally hosted web application that allows you to perform various operations on PDF files",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/Stirling-Tools/Stirling-PDF?tab=readme-ov-file"
           },
           {
             "type": "link",
-            "addDate": 1641953278953,
-            "title": "清除图片",
-            "icon": "https://logo.clearbit.com/",
-            "url": "javascript:(function(){\"use strict\";function clearMedia(){var doc=document.querySelectorAll(\"*\");for(var i=0;i<doc.length;i++){if(doc[i].nodeName===\"IMG\"||doc[i].nodeName===\"SVG\"){doc[i].setAttribute(\"style\",\"display:none\")}if(doc[i].nodeName===\"VIDEO\"){doc[i].setAttribute(\"style\",\"display:none\");doc[i].parentNode.setAttribute(\"style\",\"display:none\")}}}clearMedia();setInterval(clearMedia,300)})();"
+            "addDate": 1723466654596,
+            "title": "GitHub - poloclub/transformer-explainer: Transformer Explained: Learn How Transformer Models Work with Interactive Visualization",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/poloclub/transformer-explainer"
+          },
+          {
+            "type": "link",
+            "addDate": 1723466659994,
+            "title": "Transformer Explainer",
+            "icon": "https://logo.clearbit.com/poloclub.github.io",
+            "url": "https://poloclub.github.io/transformer-explainer/"
+          },
+          {
+            "type": "link",
+            "addDate": 1723466723821,
+            "title": "GitHub - ricklamers/x-ai-content-filter-groq: Filter X content using LLM API requests, configurable, based on Groq API",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/ricklamers/x-ai-content-filter-groq/tree/main"
+          },
+          {
+            "type": "link",
+            "addDate": 1723466751150,
+            "title": "GitHub - rasbt/LLMs-from-scratch: Implementing a ChatGPT-like LLM in PyTorch from scratch, step by step",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/rasbt/LLMs-from-scratch"
+          },
+          {
+            "type": "link",
+            "addDate": 1723466770551,
+            "title": "Welcome to Comprehensive Rust 🦀 - Comprehensive Rust 🦀",
+            "icon": "https://logo.clearbit.com/google.github.io",
+            "url": "https://google.github.io/comprehensive-rust/"
+          },
+          {
+            "type": "link",
+            "addDate": 1723466811873,
+            "title": "GitHub - zhulu111/ComfyUI_Bxb: SD变现宝：一键把comfyui工作流转换成小程序。",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/zhulu111/ComfyUI_Bxb"
+          },
+          {
+            "type": "link",
+            "addDate": 1723467051467,
+            "title": "识别PDF 表格 gmft/notebooks/quickstart.ipynb at main · conjuncts/gmft · GitHub",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/conjuncts/gmft/blob/main/notebooks/quickstart.ipynb"
+          },
+          {
+            "type": "link",
+            "addDate": 1723467128539,
+            "title": "我如何使用“人工智能” --- How I Use \"AI\"",
+            "icon": "https://logo.clearbit.com/nicholas.carlini.com",
+            "url": "https://nicholas.carlini.com/writing/2024/how-i-use-ai.html#howiuse"
+          },
+          {
+            "type": "link",
+            "addDate": 1723468097720,
+            "title": "包裹 --- Parcel",
+            "icon": "https://logo.clearbit.com/parceljs.org",
+            "url": "https://parceljs.org/"
+          },
+          {
+            "type": "link",
+            "addDate": 1723468219997,
+            "title": "system-design-101,使用视觉效果和简单术语解释复杂系统,下载system-design-101的源码_GitHub_帮酷帮助您准备系统设计面试。 --- GitHub - ByteByteGoHq/system-design-101: Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/ByteByteGoHq/system-design-101?tab=readme-ov-file#url-uri-urn---do-you-know-the-differences"
+          },
+          {
+            "type": "link",
+            "addDate": 1723527926067,
+            "title": "Postgres Sandbox",
+            "icon": "https://logo.clearbit.com/postgres.new",
+            "url": "https://postgres.new/"
+          },
+          {
+            "type": "link",
+            "addDate": 1723527932897,
+            "title": "supabase-community/postgres-new: In-browser Postgres sandbox with AI assistance",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/supabase-community/postgres-new"
+          },
+          {
+            "type": "link",
+            "addDate": 1723527976308,
+            "title": "PGlite",
+            "icon": "https://logo.clearbit.com/pglite.dev",
+            "url": "https://pglite.dev/"
+          },
+          {
+            "type": "link",
+            "addDate": 1723639107405,
+            "title": "xaoyaoo/PyWxDumpMini: PyWxDump 的超级简化版",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/xaoyaoo/PyWxDumpMini"
+          },
+          {
+            "type": "link",
+            "addDate": 1723639112335,
+            "title": "xaoyaoo/PyWxDump: 获取微信账号信息(昵称/账号/手机/邮箱/数据库密钥/wxid)；PC微信数据库读取、解密脚本；聊天记录查看工具；聊天记录导出为html(包含语音图片)。支持多账户信息获取，支持所有微信版本。",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/xaoyaoo/PyWxDump"
+          },
+          {
+            "type": "link",
+            "addDate": 1723639122234,
+            "title": "LC044/WeChatMsg: 提取微信聊天记录，将其导出成HTML、Word、Excel文档永久保存，对聊天记录进行分析生成年度聊天报告，用聊天数据训练专属于个人的AI聊天助手",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/LC044/WeChatMsg"
+          },
+          {
+            "type": "link",
+            "addDate": 1723639168354,
+            "title": "chrome-extensions-samples/api-samples/webRequest/http-auth/service-worker.js at main · GoogleChrome/chrome-extensions-samples",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/GoogleChrome/chrome-extensions-samples/blob/main/api-samples/webRequest/http-auth/service-worker.js"
+          },
+          {
+            "type": "link",
+            "addDate": 1723685941922,
+            "title": "示例 — websocket-client 1.8.0 文档 --- Examples — websocket-client 1.8.0 documentation",
+            "icon": "https://logo.clearbit.com/websocket-client.readthedocs.io",
+            "url": "https://websocket-client.readthedocs.io/en/latest/examples.html#connecting-through-a-proxy"
+          },
+          {
+            "type": "link",
+            "addDate": 1723685946642,
+            "title": "asyncins/aiowebsocket: Async WebSocket Client. Advantage: Flexible Lighter and Faster",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/asyncins/aiowebsocket"
+          },
+          {
+            "type": "link",
+            "addDate": 1723685951464,
+            "title": "soimort/you-get: :arrow_double_down: Dumb downloader that scrapes the web",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/soimort/you-get"
+          },
+          {
+            "type": "link",
+            "addDate": 1723702034305,
+            "title": "xai-org/grok-1：Grok 开放版本 --- xai-org/grok-1: Grok open release",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/xai-org/grok-1"
+          },
+          {
+            "type": "link",
+            "addDate": 1723702388647,
+            "title": "Youtube去广告 SponsorBlock/src/background.ts at master · ajayyy/SponsorBlock",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/ajayyy/SponsorBlock/blob/master/src/background.ts"
+          },
+          {
+            "type": "link",
+            "addDate": 1723702528209,
+            "title": "Python 相关 tomasonjo/blogs: Jupyter notebooks that support my graph data science blog posts at https://bratanic-tomaz.medium.com/",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/tomasonjo/blogs"
+          },
+          {
+            "type": "link",
+            "addDate": 1724204351894,
+            "title": "Huanshere/VideoLingo: Netflix级字幕切割翻译、精确对齐和个性化配音，一键全自动视频搬运",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/Huanshere/VideoLingo"
+          },
+          {
+            "type": "link",
+            "addDate": 1724290499413,
+            "title": "当代中国政府与政治.pdf | SwinCloud",
+            "icon": "https://logo.clearbit.com/pan.swin.ltd",
+            "url": "https://pan.swin.ltd/%E5%9B%BE%E4%B9%A6/%E5%BD%93%E4%BB%A3%E4%B8%AD%E5%9B%BD%E6%94%BF%E5%BA%9C%E4%B8%8E%E6%94%BF%E6%B2%BB.pdf"
+          },
+          {
+            "type": "link",
+            "addDate": 1724376254658,
+            "title": "llwslc/grammar-club: 《语法俱乐部》- 旋元佑",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/llwslc/grammar-club"
+          },
+          {
+            "type": "link",
+            "addDate": 1724376496016,
+            "title": "chrome.runtime  |  API  |  Chrome for Developers",
+            "icon": "https://logo.clearbit.com/developer.chrome.com",
+            "url": "https://developer.chrome.com/docs/extensions/reference/api/runtime"
+          },
+          {
+            "type": "link",
+            "addDate": 1724393490229,
+            "title": "ray-lothian/UserAgent-Switcher: A User-Agent spoofer browser extension that is highly configurable",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/ray-lothian/UserAgent-Switcher/"
+          },
+          {
+            "type": "link",
+            "addDate": 1724393504583,
+            "title": "rNeomy/reader-view: Access Firefox's built in reader view from right click context menu",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/rNeomy/reader-view"
+          },
+          {
+            "type": "link",
+            "addDate": 1724396377791,
+            "title": "james-fray/YouTube-HD: YouTube HD is a very lightweight extension that forces the YouTube HTML5 and Flash players to play videos in full-HD or highest available quality.",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/james-fray/YouTube-HD"
+          },
+          {
+            "type": "link",
+            "addDate": 1724721863035,
+            "title": "kuangdd2024/auto-video-generateor: 自动视频生成器，给定主题，自动生成解说视频。用户输入主题文字，系统调用大语言模型生成故事或解说的文字，然后进一步调用语音合成接口生成解说的语音，调用文生图接口生成契合文字内容的配图，最后融合语音和配图生成解说视频。",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/kuangdd2024/auto-video-generateor"
+          },
+          {
+            "type": "link",
+            "addDate": 1724721959242,
+            "title": "RinLit-233-shiroko/Class-Widgets: Class Widgets 是一款能够显示当前课程的桌面组件应用程序。其提供了易用课程表编辑和美观的桌面组件。",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/RinLit-233-shiroko/Class-Widgets"
+          },
+          {
+            "type": "link",
+            "addDate": 1724910129836,
+            "title": "Free Public APIs",
+            "icon": "https://logo.clearbit.com/www.freepublicapis.com",
+            "url": "https://www.freepublicapis.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1724981323919,
+            "title": "zhangguanzhang/simple-container-network-book: 面向网络小白的基础网络和容器网络的科普",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/zhangguanzhang/simple-container-network-book"
+          },
+          {
+            "type": "link",
+            "addDate": 1724996236038,
+            "title": "mendableai/firecrawl：🔥 将整个网站转换为LLM就绪的 Markdown 或结构化数据。使用单个 API 进行抓取、爬行和提取。 --- mendableai/firecrawl: 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/mendableai/firecrawl"
+          },
+          {
+            "type": "link",
+            "addDate": 1725586118447,
+            "title": "24hBook search - Download ebooks free with AI",
+            "icon": "https://logo.clearbit.com/24hbook.store",
+            "url": "https://24hbook.store/"
+          },
+          {
+            "type": "link",
+            "addDate": 1725586809784,
+            "title": "Mini-Cover",
+            "icon": "https://logo.clearbit.com/cover.ruom.top",
+            "url": "https://cover.ruom.top/"
+          },
+          {
+            "type": "link",
+            "addDate": 1725586906794,
+            "title": "加密空投：2024 年最新空投列表、免费代币、完整指南和说明。 |加密排名.io --- Crypto Airdrops: Up-to-Date Airdrops List 2024, Free Tokens, Complete Guides, and Instructions. | CryptoRank.io",
+            "icon": "https://logo.clearbit.com/cryptorank.io",
+            "url": "https://cryptorank.io/drophunting?page=1"
+          },
+          {
+            "type": "link",
+            "addDate": 1728265867888,
+            "title": "PDF工具（可本地部署）Stirling-Tools/Stirling-PDF: #1 Locally hosted web application that allows you to perform various operations on PDF files",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/Stirling-Tools/Stirling-PDF"
+          },
+          {
+            "type": "link",
+            "addDate": 1728268137226,
+            "title": "run-llama/voice-chat-pdf: Use OpenAI's realtime API for a chatting with your documents",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/run-llama/voice-chat-pdf/tree/main"
+          },
+          {
+            "type": "link",
+            "addDate": 1728268863937,
+            "title": "imfile-io/imfile-desktop: A full-featured download manager.",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/imfile-io/imfile-desktop"
+          },
+          {
+            "type": "link",
+            "addDate": 1728270547263,
+            "title": "Richasy/Bili.Copilot: B站第三方 Windows 桌面客户端，使用 Windows App SDK 构建的原生高颜值应用",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/Richasy/Bili.Copilot"
+          },
+          {
+            "type": "link",
+            "addDate": 1728271542016,
+            "title": "danilotpnta/Youtube-Whisper：一款 Gradio 应用程序，使用音频提取和 OpenAI 的 Whisper 模型转录 YouTube 视频。 --- danilotpnta/Youtube-Whisper: A Gradio app that transcribes YouTube videos using audio extraction and OpenAI’s Whisper model.",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/danilotpnta/Youtube-Whisper/tree/main"
+          },
+          {
+            "type": "link",
+            "addDate": 1728271580234,
+            "title": "danilotpnta/Youtube-Whisper: A Gradio app that transcribes YouTube videos using audio extraction and OpenAI’s Whisper model.",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/danilotpnta/Youtube-Whisper"
+          },
+          {
+            "type": "link",
+            "addDate": 1728271644484,
+            "title": "bolt.new 教你学编程 stackblitz/bolt.new: Prompt, run, edit, and deploy full-stack web applications",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/stackblitz/bolt.new"
+          },
+          {
+            "type": "link",
+            "addDate": 1728273715976,
+            "title": "关于我上周给Python3.14加了goto这件事 - YouTube",
+            "icon": "https://logo.clearbit.com/www.youtube.com",
+            "url": "https://www.youtube.com/watch?v=tCs6rWpI0IM"
+          },
+          {
+            "type": "link",
+            "addDate": 1728280824365,
+            "title": "Python爬虫 Unclecode/crawl4ai：🔥🕷️ Crawl4AI：开源LLM友好的网络爬虫和 Scrapper --- unclecode/crawl4ai: 🔥🕷️ Crawl4AI: Open-source LLM Friendly Web Crawler & Scrapper",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/unclecode/crawl4ai"
+          },
+          {
+            "type": "link",
+            "addDate": 1725453139513,
+            "title": "Zeyi-Lin/HivisionIDPhotos: ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/Zeyi-Lin/HivisionIDPhotos"
+          },
+          {
+            "type": "link",
+            "addDate": 1728282917023,
+            "title": "TheAlgorithms/JavaScript: Algorithms and Data Structures implemented in JavaScript for beginners, following best practices.",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/TheAlgorithms/JavaScript"
+          },
+          {
+            "type": "link",
+            "addDate": 1728282964127,
+            "title": "JS算法 trekhleb/javascript-algorithms: 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/trekhleb/javascript-algorithms"
+          },
+          {
+            "type": "link",
+            "addDate": 1728282986989,
+            "title": "Python算法 TheAlgorithms/Python：所有用 Python 实现的算法 --- TheAlgorithms/Python: All Algorithms implemented in Python",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/TheAlgorithms/Python"
+          },
+          {
+            "type": "link",
+            "addDate": 1728283006375,
+            "title": "The Algorithms",
+            "icon": "https://logo.clearbit.com/the-algorithms.com",
+            "url": "https://the-algorithms.com/zh_Hans"
+          },
+          {
+            "type": "link",
+            "addDate": 1728548942527,
+            "title": "vercel/ai-chatbot: A full-featured, hackable Next.js AI chatbot built by Vercel",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/vercel/ai-chatbot"
+          },
+          {
+            "type": "link",
+            "addDate": 1728549039102,
+            "title": "Thavarshan/fetch-php: 🚀 A lightweight HTTP library inspired by JavaScript's fetch, bringing simplicity and flexibility to PHP HTTP requests.",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/Thavarshan/fetch-php"
+          },
+          {
+            "type": "link",
+            "addDate": 1728551704409,
+            "title": "MotionNumber for Framer Motion",
+            "icon": "https://logo.clearbit.com/motion-number.barvian.me",
+            "url": "https://motion-number.barvian.me/"
+          },
+          {
+            "type": "link",
+            "addDate": 1728611390535,
+            "title": "kairi003/Get-cookies.txt-LOCALLY: Get cookies.txt, NEVER send information outside.",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/kairi003/Get-cookies.txt-Locally"
+          },
+          {
+            "type": "link",
+            "addDate": 1728625344761,
+            "title": "播放器 Media Chrome Docs",
+            "icon": "https://logo.clearbit.com/www.media-chrome.org",
+            "url": "https://www.media-chrome.org/"
+          },
+          {
+            "type": "link",
+            "addDate": 1728627536121,
+            "title": "监控文件变化 facebook/watchman: Watches files and records, or triggers actions, when they change.",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/facebook/watchman"
+          },
+          {
+            "type": "link",
+            "addDate": 1728628806723,
+            "title": "类似Pandas Polars  DataFrame — Polars documentation",
+            "icon": "https://logo.clearbit.com/docs.pola.rs",
+            "url": "https://docs.pola.rs/py-polars/html/reference/dataframe/index.html"
+          },
+          {
+            "type": "link",
+            "addDate": 1728628906263,
+            "title": "播放器 muxinc/media-chrome: Custom elements (web components) for making audio and video player controls that look great in your website or app.",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/muxinc/media-chrome"
+          },
+          {
+            "type": "link",
+            "addDate": 1728628928133,
+            "title": "播放器样式 player.style - Video & audio player themes for every web player & framework",
+            "icon": "https://logo.clearbit.com/player.style",
+            "url": "https://player.style/"
+          },
+          {
+            "type": "link",
+            "addDate": 1728869974142,
+            "title": "FlySkyPie/polis-node --- FlySkyPie/polis-node",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/FlySkyPie/polis-node"
+          },
+          {
+            "type": "link",
+            "addDate": 1728886730255,
+            "title": "OCR识别  VikParuchuri/surya: OCR, layout analysis, reading order, table recognition in 90+ languages",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/VikParuchuri/surya"
+          },
+          {
+            "type": "link",
+            "addDate": 1728956780937,
+            "title": "docker可视化 donknap/dpanel: docker可视化管理面板",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/donknap/dpanel?tab=readme-ov-file"
+          },
+          {
+            "type": "link",
+            "addDate": 1728956830722,
+            "title": "OCR PaddlePaddle/PaddleOCR: Awesome multilingual OCR toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and deployment among server, mobile, embedded and IoT devices)",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/PaddlePaddle/PaddleOCR"
+          },
+          {
+            "type": "link",
+            "addDate": 1728956848724,
+            "title": "识屏搜索 OCR xushengfeng/eSearch: 截屏 离线OCR 搜索翻译 以图搜图 贴图 录屏 万向滚动截屏 屏幕翻译 Screenshot Offline OCR Search Translate Search for picture Paste the picture on the screen Screen recorder Omnidirectional scrolling screenshot Screen translator",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/xushengfeng/eSearch"
+          },
+          {
+            "type": "link",
+            "addDate": 1728956888878,
+            "title": "动手学OCR - PaddleOCR 文档",
+            "icon": "https://logo.clearbit.com/paddlepaddle.github.io",
+            "url": "https://paddlepaddle.github.io/PaddleOCR/latest/ppocr/blog/ocr_book.html"
+          },
+          {
+            "type": "link",
+            "addDate": 1728957308061,
+            "title": "CSS 动画 Easing Graphs",
+            "icon": "https://logo.clearbit.com/www.easing.dev",
+            "url": "https://www.easing.dev/"
+          },
+          {
+            "type": "link",
+            "addDate": 1728959478029,
+            "title": "Create Next App",
+            "icon": "https://logo.clearbit.com/card-stack.lrnz.work",
+            "url": "https://card-stack.lrnz.work/"
+          },
+          {
+            "type": "link",
+            "addDate": 1729144558764,
+            "title": "postman平替 hoppscotch/hoppscotch：开源 API 开发生态系统 - https://hoppscotch.io （Postman、Insomnia 的开源替代方案） --- hoppscotch/hoppscotch: Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/hoppscotch/hoppscotch"
+          },
+          {
+            "type": "link",
+            "addDate": 1729215389095,
+            "title": "VikParuchuri/tabled：检测表格并将其提取为 markdown 和 csv --- VikParuchuri/tabled: Detect and extract tables to markdown and csv",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/VikParuchuri/tabled"
+          },
+          {
+            "type": "link",
+            "addDate": 1729215428345,
+            "title": "Python实现的算法 TheAlgorithms/Python: All Algorithms implemented in Python",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/TheAlgorithms/Python/tree/master"
+          },
+          {
+            "type": "link",
+            "addDate": 1729215471678,
+            "title": "Python手册 gto76/python-cheatsheet: Comprehensive Python Cheatsheet",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/gto76/python-cheatsheet/tree/main"
+          },
+          {
+            "type": "link",
+            "addDate": 1729215524867,
+            "title": "Python实现的算法 TheAlgorithms/Python — thealgorithms-python documentation",
+            "icon": "https://logo.clearbit.com/thealgorithms.github.io",
+            "url": "https://thealgorithms.github.io/Python/"
+          },
+          {
+            "type": "link",
+            "addDate": 1729475468046,
+            "title": "人声分离 facebookresearch/demucs：论文《混合频谱图和波形源分离》的代码 --- facebookresearch/demucs: Code for the paper Hybrid Spectrogram and Waveform Source Separation",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/facebookresearch/demucs"
+          },
+          {
+            "type": "link",
+            "addDate": 1729475521412,
+            "title": "人声分离 BUTSpeechFIT/DiariZen：用于说话人二值化的工具包。 --- BUTSpeechFIT/DiariZen: A toolkit for speaker diarization.",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/BUTSpeechFIT/DiariZen"
+          },
+          {
+            "type": "link",
+            "addDate": 1729475677838,
+            "title": "Python学习 jackfrued/Python-Core-50-Courses: Python语言基础50课",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/jackfrued/Python-Core-50-Courses"
+          },
+          {
+            "type": "link",
+            "addDate": 1729475842494,
+            "title": "人声分离 Eddycrack864/UVR5-UI：带有 Gradio UI 的终极人声去除器 5。使用多个模型将音频文件分成不同的词干 --- Eddycrack864/UVR5-UI: Ultimate Vocal Remover 5 with Gradio UI. Separate an audio file into various stems, using multiple models",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/Eddycrack864/UVR5-UI"
+          },
+          {
+            "type": "link",
+            "addDate": 1729662461262,
+            "title": "油猴脚本 prinsss/twitter-web-exporter: Export tweets, bookmarks, lists and much more from Twitter(X) web app. (推文/书签/收藏/列表导出工具)",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/prinsss/twitter-web-exporter"
+          },
+          {
+            "type": "link",
+            "addDate": 1729748831007,
+            "title": "atherosai/ui: Simple UI examples from my social media",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/atherosai/ui"
+          },
+          {
+            "type": "link",
+            "addDate": 1729774003881,
+            "title": "2024年赤壁市幼儿园教育名录-赤壁市政府网",
+            "icon": "https://logo.clearbit.com/www.chibi.gov.cn",
+            "url": "http://www.chibi.gov.cn/xxgk/xxgkml/gysyjs/jy2/xqjy/202409/t20240923_3739522.shtml"
+          },
+          {
+            "type": "link",
+            "addDate": 1730079905689,
+            "title": "findmover/wxread: 集微信阅读挂机、部署服务器、推送一体的python脚本",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/findmover/wxread"
+          },
+          {
+            "type": "link",
+            "addDate": 1730079966185,
+            "title": "加速访问github 521xueweihan/GitHub520: :kissing_heart: 让你“爱”上 GitHub，解决访问时图裂、加载慢的问题。（无需安装）",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/521xueweihan/GitHub520"
+          },
+          {
+            "type": "link",
+            "addDate": 1730081165338,
+            "title": "将curl转换为python脚本Convert curl commands to Python",
+            "icon": "https://logo.clearbit.com/curlconverter.com",
+            "url": "https://curlconverter.com/python/"
+          },
+          {
+            "type": "link",
+            "addDate": 1730252121932,
+            "title": "KRTirtho/spotube: 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/KRTirtho/spotube"
+          },
+          {
+            "type": "link",
+            "addDate": 1730252211609,
+            "title": "CSS Tip: Learn CSS the easy way",
+            "icon": "https://logo.clearbit.com/css-tip.com",
+            "url": "https://css-tip.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1730252258156,
+            "title": "Pomodoro Timer | notepad.js.org",
+            "icon": "https://logo.clearbit.com/notepad.js.org",
+            "url": "https://notepad.js.org/pomodoro-timer/"
+          },
+          {
+            "type": "link",
+            "addDate": 1730450342147,
+            "title": "yt-dlp/yt-dlp: A feature-rich command-line audio/video downloader",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/yt-dlp/yt-dlp"
+          },
+          {
+            "type": "link",
+            "addDate": 1730684070848,
+            "title": "PHP API PRO | GaryClarkeTech",
+            "icon": "https://logo.clearbit.com/www.garyclarke.tech",
+            "url": "https://www.garyclarke.tech/p/php-api-pro"
+          },
+          {
+            "type": "link",
+            "addDate": 1730699646267,
+            "title": "Web 开发从入门到上线",
+            "icon": "https://logo.clearbit.com/justincourse.com",
+            "url": "https://justincourse.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1730699649010,
+            "title": "marticliment/UniGetUI: UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/marticliment/UniGetUI"
+          },
+          {
+            "type": "link",
+            "addDate": 1731461444367,
+            "title": "sdmg15/Best-websites-a-programmer-should-visit: :link: 一些对程序员有用的网站。 --- sdmg15/Best-websites-a-programmer-should-visit: :link: Some useful websites for programmers.",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/sdmg15/Best-websites-a-programmer-should-visit"
+          },
+          {
+            "type": "link",
+            "addDate": 1731547901352,
+            "title": "liujuntao123/chines-history-video: 中国历朝代历史视频讲解",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/liujuntao123/chines-history-video"
+          },
+          {
+            "type": "link",
+            "addDate": 1731912912090,
+            "title": "system-design-primer/README-zh-Hans.md at master · donnemartin/system-design-primer",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/donnemartin/system-design-primer/blob/master/README-zh-Hans.md#%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1%E7%9A%84%E9%9D%A2%E8%AF%95%E9%A2%98%E5%92%8C%E8%A7%A3%E7%AD%94"
+          },
+          {
+            "type": "link",
+            "addDate": 1732711925056,
+            "title": "hongye612430/awesome-programming-books-1: 📚 经典技术书籍 PDF 文件，持续更新...",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/hongye612430/awesome-programming-books-1/tree/master"
+          },
+          {
+            "type": "link",
+            "addDate": 1733215499782,
+            "title": "下载twitter视频 XiaomingX/twitter-video-download: 下载推特上的视频的工具（as the name , twitter video download）",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/XiaomingX/twitter-video-download"
           }
         ]
       },
@@ -984,13 +2174,6 @@
           },
           {
             "type": "link",
-            "addDate": 1611306937265,
-            "title": "登录 | Sentry",
-            "icon": "https://logo.clearbit.com/172.18.8.236",
-            "url": "http://172.18.8.236:10000/auth/login/rondaful/"
-          },
-          {
-            "type": "link",
             "addDate": 1609830599190,
             "title": "Erp接口文档",
             "icon": "https://logo.clearbit.com/172.20.0.80",
@@ -1016,55 +2199,412 @@
             "title": "工作台 [Jenkins]",
             "icon": "https://logo.clearbit.com/172.18.8.72",
             "url": "http://172.18.8.72:8080/"
+          },
+          {
+            "type": "link",
+            "addDate": 1723089338330,
+            "title": "登录 | Sentry",
+            "icon": "https://logo.clearbit.com/172.18.12.88",
+            "url": "http://172.18.12.88:9000/auth/login/sentry/"
+          },
+          {
+            "type": "link",
+            "addDate": 1723109523671,
+            "title": "开发商 --- Developers",
+            "icon": "https://logo.clearbit.com/global-selling.mercadolibre.com",
+            "url": "https://global-selling.mercadolibre.com/devsite/manage-shipments"
+          },
+          {
+            "type": "link",
+            "addDate": 1725431951737,
+            "title": "地盘-我的任务 - 禅道",
+            "icon": "https://logo.clearbit.com/172.19.37.9",
+            "url": "http://172.19.37.9/zentao/my-work-task.html"
           }
         ]
       },
       {
         "type": "folder",
-        "addDate": 1721028293964,
-        "title": "谷歌浏览器扩展",
+        "addDate": 1723080286710,
+        "title": "AI",
         "children": [
           {
             "type": "link",
-            "addDate": 1721028280696,
-            "title": "xuejianxianzun/PixivBatchDownloader: Chrome 扩展，批量下载 Pixiv 的插画和小说。过滤作品、下载时重命名、转换动态图片等。Powerful Pixiv batch downloader. Batch download artworks and novels, filter works, rename when downloading, convert animated images, and more.",
+            "addDate": 1723080276844,
+            "title": "大同搜索",
+            "icon": "https://logo.clearbit.com/datong.info",
+            "url": "https://datong.info/ui/index.html"
+          },
+          {
+            "type": "link",
+            "addDate": 1723200845980,
+            "title": "什么值得看 - 现在正在发生什么",
+            "icon": "https://logo.clearbit.com/smzdk.top",
+            "url": "https://smzdk.top/#/"
+          },
+          {
+            "type": "link",
+            "addDate": 1723202960450,
+            "title": "PDFgear - 将易于使用的PDF软件带给大众",
+            "icon": "https://logo.clearbit.com/www.pdfgear.com",
+            "url": "https://www.pdfgear.com/zh/"
+          },
+          {
+            "type": "link",
+            "addDate": 1723465593055,
+            "title": "电影 2023 – DYD",
+            "icon": "https://logo.clearbit.com/www.dydhhy.com",
+            "url": "http://www.dydhhy.com/tag/2023"
+          },
+          {
+            "type": "link",
+            "addDate": 1723466491313,
+            "title": "twitter 插件x cards",
+            "icon": "https://logo.clearbit.com/x-cards.net",
+            "url": "https://x-cards.net/"
+          },
+          {
+            "type": "link",
+            "addDate": 1723531136382,
+            "title": "OpenAI",
+            "icon": "https://logo.clearbit.com/openai.com",
+            "url": "https://openai.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1723551819224,
+            "title": "微博嘴替｜一种很新的AI嘴替，从微博中分析性格",
+            "icon": "https://logo.clearbit.com/zuiti.app",
+            "url": "https://zuiti.app/"
+          },
+          {
+            "type": "link",
+            "addDate": 1723614037302,
+            "title": "语音转文本 Online Free Audio to Text Converter - Transcribe Audio to Text | Notta",
+            "icon": "https://logo.clearbit.com/www.notta.ai",
+            "url": "https://www.notta.ai/en/tools/audio-to-text-converter"
+          },
+          {
+            "type": "link",
+            "addDate": 1724203906840,
+            "title": "视频翻译配音pyVideoTrans | 视频翻译配音pyVideoTrans",
+            "icon": "https://logo.clearbit.com/pyvideotrans.com",
+            "url": "https://pyvideotrans.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1724204271968,
+            "title": "PDF转MarkdownOpenDataLab 引领AI大模型时代的开放数据平台",
+            "icon": "https://logo.clearbit.com/opendatalab.com",
+            "url": "https://opendatalab.com/OpenSourceTools/Extractor/PDF/"
+          },
+          {
+            "type": "link",
+            "addDate": 1724376183366,
+            "title": "Developer Roadmaps - roadmap.sh",
+            "icon": "https://logo.clearbit.com/roadmap.sh",
+            "url": "https://roadmap.sh/"
+          },
+          {
+            "type": "link",
+            "addDate": 1724376198391,
+            "title": "(439) Dr Izzy Sealey 凯琦 - YouTube",
+            "icon": "https://logo.clearbit.com/www.youtube.com",
+            "url": "https://www.youtube.com/izzysealey"
+          },
+          {
+            "type": "link",
+            "addDate": 1725453131344,
+            "title": "演示空间 · ZeYiLin/HivisionIDPhotos",
+            "icon": "https://logo.clearbit.com/swanhub.co",
+            "url": "https://swanhub.co/ZeYiLin/HivisionIDPhotos/demo"
+          },
+          {
+            "type": "link",
+            "addDate": 1726120456800,
+            "title": "一键区背景 TinyEraser",
+            "icon": "https://logo.clearbit.com/www.tinyeraser.com",
+            "url": "https://www.tinyeraser.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1726120490543,
+            "title": "文本转语音 Fish Audio: Free Generative AI Text To Speech & Voice Cloning",
+            "icon": "https://logo.clearbit.com/fish.audio",
+            "url": "https://fish.audio/zh-CN/"
+          },
+          {
+            "type": "link",
+            "addDate": 1728098365069,
+            "title": "教你学编程 bolt.new",
+            "icon": "https://logo.clearbit.com/bolt.new",
+            "url": "https://bolt.new/"
+          },
+          {
+            "type": "link",
+            "addDate": 1728110288156,
+            "title": "数字滚动效果 MotionNumber for Framer Motion",
+            "icon": "https://logo.clearbit.com/motion-number.barvian.me",
+            "url": "https://motion-number.barvian.me/#limitations"
+          },
+          {
+            "type": "link",
+            "addDate": 1728366751108,
+            "title": "BlinkShot – Real-Time AI Image Generator",
+            "icon": "https://logo.clearbit.com/www.blinkshot.io",
+            "url": "https://www.blinkshot.io/"
+          },
+          {
+            "type": "link",
+            "addDate": 1728371381781,
+            "title": "AI 生成图片 Nutlope/blinkshot: A realtime AI image generator",
             "icon": "https://logo.clearbit.com/github.com",
-            "url": "https://github.com/xuejianxianzun/PixivBatchDownloader"
+            "url": "https://github.com/Nutlope/blinkshot"
           },
           {
             "type": "link",
-            "addDate": 1721093831356,
-            "title": "justjavac/ReplaceGoogleCDN: ⚡️ 一个 Chrome 插件：将 Google CDN 替换为国内的。",
+            "addDate": 1728455067549,
+            "title": "Guii.AI Your ideas, made true",
+            "icon": "https://logo.clearbit.com/guii.ai",
+            "url": "https://guii.ai/"
+          },
+          {
+            "type": "link",
+            "addDate": 1728524802127,
+            "title": "ERP系统--利朗达",
+            "icon": "https://logo.clearbit.com/oms.rondaful.com",
+            "url": "https://oms.rondaful.com/carrier"
+          },
+          {
+            "type": "link",
+            "addDate": 1728959688933,
+            "title": "国内语音 SWivid/F5-TTS: Official code for \"F5-TTS: A Fairytaler that Fakes Fluent and Faithful Speech with Flow Matching\"",
             "icon": "https://logo.clearbit.com/github.com",
-            "url": "https://github.com/justjavac/ReplaceGoogleCDN"
+            "url": "https://github.com/SWivid/F5-TTS"
           },
           {
             "type": "link",
-            "addDate": 1721367828306,
-            "title": "code-charity/youtube: [top~1 open YouTube & Video web-extension] Enrich your experience & choice! 🧰180+ options & clever features📌set+forget📌Longest-standing(yet rare&tough alone. Please help/join🧩us👨‍👩‍👧‍👧) ..⋮ {playback|content discovery|player|extra buttons|distractions|related videos|shorts|ads|quality|codec|full tab|full screen}",
+            "addDate": 1729215940142,
+            "title": "Reasoning - OpenAI API",
+            "icon": "https://logo.clearbit.com/platform.openai.com",
+            "url": "https://platform.openai.com/docs/guides/reasoning"
+          },
+          {
+            "type": "link",
+            "addDate": 1729223092912,
+            "title": "ERP系统--利朗达",
+            "icon": "https://logo.clearbit.com/oms.rondaful.com",
+            "url": "https://oms.rondaful.com/task"
+          },
+          {
+            "type": "link",
+            "addDate": 1729230261499,
+            "title": "文本转语音 文字转语音 - 在线配音工具 - 免费在线工具",
+            "icon": "https://logo.clearbit.com/d1tools.com",
+            "url": "https://d1tools.com/tools/ai-tts/"
+          },
+          {
+            "type": "link",
+            "addDate": 1732242323338,
+            "title": "v0 by Vercel",
+            "icon": "https://logo.clearbit.com/v0.dev",
+            "url": "https://v0.dev/"
+          }
+        ]
+      },
+      {
+        "type": "folder",
+        "addDate": 1726132312509,
+        "title": "其它",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1726132294711,
+            "title": "SVG 路径可视化工具 --- SVG Path Visualizer",
+            "icon": "https://logo.clearbit.com/svg-path-visualizer.netlify.app",
+            "url": "https://svg-path-visualizer.netlify.app/#M%2059.583%2099.118%20L%2016.168%2055.626%20C%2013.784%2053.244%2013.784%2049.326%2016.168%2046.942%20C%2018.55%2044.561%2022.468%2044.561%2024.851%2046.942%20L%2057.815%2079.907%20L%2057.815%208.676%20C%2057.815%205.295%2060.581%202.528%2063.963%202.528%20C%2067.343%202.528%2070.111%205.295%2070.111%208.676%20L%2070.111%2079.907%20L%20103.149%2047.017%20C%20105.533%2044.636%20109.453%2044.636%20111.834%2047.017%20C%20114.215%2049.402%20114.215%2053.321%20111.834%2055.702%20L%2068.342%2099.193%20C%2068.113%2099.503%2067.726%2099.732%2067.421%2099.962%20L%2066.959%20100.193%20C%2066.729%20100.27%2066.574%20100.422%2066.344%20100.501%20C%2066.115%20100.578%2065.961%20100.578%2065.729%20100.653%20C%2065.576%20100.731%2065.345%20100.807%2065.192%20100.807%20C%2064.73%20100.885%2064.422%20100.961%2063.963%20100.961%20C%2063.5%20100.961%2063.115%20100.885%2062.734%20100.807%20C%2062.501%20100.807%2062.35%20100.731%2062.194%20100.653%20C%2061.965%20100.578%2061.812%20100.501%2061.581%20100.422%20C%2061.349%20100.347%2061.196%20100.193%2060.967%20100.116%20L%2060.505%2099.887%20C%2060.198%2099.654%2059.889%2099.424%2059.583%2099.118%20Z%20M%20106.993%20113.179%20C%20110.375%20113.179%20113.14%20115.946%20113.14%20119.325%20C%20113.14%20122.706%20110.375%20125.473%20106.993%20125.473%20L%2020.93%20125.473%20C%2017.55%20125.473%2014.784%20122.706%2014.784%20119.325%20C%2014.784%20115.946%2017.55%20113.179%2020.93%20113.179%20L%20106.993%20113.179%20Z"
+          },
+          {
+            "type": "link",
+            "addDate": 1726133834223,
+            "title": "HTML Color Codes",
+            "icon": "https://logo.clearbit.com/htmlcolorcodes.com",
+            "url": "https://htmlcolorcodes.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1726713320009,
+            "title": "next 播放器 leerob/next-music-player: A blazing fast, information dense media player built with Next.js.",
             "icon": "https://logo.clearbit.com/github.com",
-            "url": "https://github.com/code-charity/youtube"
+            "url": "https://github.com/leerob/next-music-player"
           },
           {
             "type": "link",
-            "addDate": 1721697882114,
-            "title": "第11期：GPT-4o mini：速度更快，价格更低 | 信息差——独立开发者出海周刊",
-            "icon": "https://logo.clearbit.com/gapis.money",
-            "url": "https://gapis.money/weekly/2024-07-22_011?utm_source=x1"
+            "addDate": 1726725118186,
+            "title": "Postgresql 下载 EDB: Open-Source, Enterprise Postgres Database Management",
+            "icon": "https://logo.clearbit.com/www.enterprisedb.com",
+            "url": "https://www.enterprisedb.com/downloads/postgres-postgresql-downloads"
           },
           {
             "type": "link",
-            "addDate": 1722330215034,
-            "title": "Using VS Code Pets - VS Code Pets documentation",
-            "icon": "https://logo.clearbit.com/tonybaloney.github.io",
-            "url": "https://tonybaloney.github.io/vscode-pets/usage.html#themes"
+            "addDate": 1726738976392,
+            "title": "Web课程 Your Career in Web Development Starts Here | The Odin Project",
+            "icon": "https://logo.clearbit.com/www.theodinproject.com",
+            "url": "https://www.theodinproject.com/"
           },
           {
             "type": "link",
-            "addDate": 1722330230799,
-            "title": "vscode-pets/src/extension/extension.ts at main · tonybaloney/vscode-pets",
+            "addDate": 1726739017983,
+            "title": "Web课程 TheOdinProject/curriculum：学习网络开发的开放课程 --- TheOdinProject/curriculum: The open curriculum for learning web development",
             "icon": "https://logo.clearbit.com/github.com",
-            "url": "https://github.com/tonybaloney/vscode-pets/blob/main/src/extension/extension.ts"
+            "url": "https://github.com/TheOdinProject/curriculum"
+          },
+          {
+            "type": "link",
+            "addDate": 1726739072579,
+            "title": "Hi, Seed music - Doubao Team",
+            "icon": "https://logo.clearbit.com/team.doubao.com",
+            "url": "https://team.doubao.com/en/special/seed-music"
+          },
+          {
+            "type": "link",
+            "addDate": 1726796899696,
+            "title": "B 树和数据库索引 --- B-trees and database indexes",
+            "icon": "https://logo.clearbit.com/planetscale.com",
+            "url": "https://planetscale.com/blog/btrees-and-database-indexes"
+          },
+          {
+            "type": "link",
+            "addDate": 1726796984670,
+            "title": "th-ch/youtube-music: YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/th-ch/youtube-music"
+          },
+          {
+            "type": "link",
+            "addDate": 1726797034039,
+            "title": "键盘按键指示 keyviz/README_zh_CN.md at main · mulaRahul/keyviz",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/mulaRahul/keyviz/blob/main/README_zh_CN.md"
+          },
+          {
+            "type": "link",
+            "addDate": 1726797193358,
+            "title": "DjangoPeng/GitHubSentinel: GitHub Sentinel 是专为大模型（LLMs）时代打造的智能信息检索和高价值内容挖掘 AI Agent。它面向那些需要高频次、大量信息获取的用户，特别是开源爱好者、个人开发者和投资人等。GitHub Sentinel 不仅能帮助用户自动跟踪和分析 GitHub 开源项目 的最新动态，还能快速扩展到其他信息渠道，如 Hacker News 的热门话题，提供更全面的信息挖掘与分析能力。",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/DjangoPeng/GitHubSentinel"
+          },
+          {
+            "type": "link",
+            "addDate": 1726797350041,
+            "title": "How I write HTTP services in Go after 13 years | Grafana Labs",
+            "icon": "https://logo.clearbit.com/grafana.com",
+            "url": "https://grafana.com/blog/2024/02/09/how-i-write-http-services-in-go-after-13-years/"
+          },
+          {
+            "type": "link",
+            "addDate": 1726797418510,
+            "title": "kangfenmao/cherry-studio: 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/kangfenmao/cherry-studio"
+          },
+          {
+            "type": "link",
+            "addDate": 1727141729632,
+            "title": "Download Krayin - Krayin CRM",
+            "icon": "https://logo.clearbit.com/krayincrm.com",
+            "url": "https://krayincrm.com/download/"
+          },
+          {
+            "type": "link",
+            "addDate": 1727142199248,
+            "title": "AI 代码编辑器 trypear/pearai-app: The Open Source AI-Powered Code Editor. A fork of VSCode and Continue.",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/trypear/pearai-app"
+          },
+          {
+            "type": "link",
+            "addDate": 1727142233468,
+            "title": "Python 分许KeithGalli/国家分析 --- KeithGalli/country-analytics",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/KeithGalli/country-analytics"
+          },
+          {
+            "type": "link",
+            "addDate": 1727142844119,
+            "title": "Pythoy等 Get Started – Quarto",
+            "icon": "https://logo.clearbit.com/quarto.org",
+            "url": "https://quarto.org/docs/get-started/"
+          },
+          {
+            "type": "link",
+            "addDate": 1727150072108,
+            "title": "高亮搜索typesense/typesense: Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/typesense/typesense?utm_source=afrancis&utm_medium=youtube&utm_campaign=typesense_q3_2024&utm_term=tryhard&utm_content=repo"
+          },
+          {
+            "type": "link",
+            "addDate": 1727150111137,
+            "title": "在线免费文字转语音 - TTSMaker官网 | 马克配音",
+            "icon": "https://logo.clearbit.com/ttsmaker.cn",
+            "url": "https://ttsmaker.cn/"
+          },
+          {
+            "type": "link",
+            "addDate": 1727318045694,
+            "title": "GPT marlaman/show-me: A visual and transparent alternative to open-source ChatGPT O1",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/marlaman/show-me"
+          },
+          {
+            "type": "link",
+            "addDate": 1727318093367,
+            "title": "AI 页面Yonom/assistant-ui: React Components for AI Chat 💬 🚀",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/Yonom/assistant-ui"
+          },
+          {
+            "type": "link",
+            "addDate": 1728097158004,
+            "title": "图片背后加文字Text Behind Image",
+            "icon": "https://logo.clearbit.com/textbehindimage.rexanwong.xyz",
+            "url": "https://textbehindimage.rexanwong.xyz/"
+          },
+          {
+            "type": "link",
+            "addDate": 1728097195268,
+            "title": "图片背后加文字 RexanWONG/text-behind-image: https://textbehindimage.rexanwong.xyz - create text behind image designs easily",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/RexanWONG/text-behind-image"
+          },
+          {
+            "type": "link",
+            "addDate": 1728110309786,
+            "title": "数字滚动效果 barvian/motion-number: A Framer Motion component that transitions, formats, and localizes numbers.",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/barvian/motion-number"
+          },
+          {
+            "type": "link",
+            "addDate": 1728112787178,
+            "title": "气球 balloons-js",
+            "icon": "https://logo.clearbit.com/arturbien.github.io",
+            "url": "https://arturbien.github.io/balloons-js/"
+          },
+          {
+            "type": "link",
+            "addDate": 1728268822980,
+            "title": "ImFile",
+            "icon": "https://logo.clearbit.com/imfile.io",
+            "url": "https://imfile.io/"
+          },
+          {
+            "type": "link",
+            "addDate": 1728268859353,
+            "title": "imfile-desktop/README-CN.md at master · imfile-io/imfile-desktop",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/imfile-io/imfile-desktop/blob/master/README-CN.md"
           }
         ]
       },
@@ -1081,6 +2621,13 @@
         "title": "#GitHubUnwrapped 2023 - Your coding year in review",
         "icon": "https://logo.clearbit.com/githubunwrapped.com",
         "url": "https://githubunwrapped.com/"
+      },
+      {
+        "type": "link",
+        "addDate": 1711628837497,
+        "title": "三体 网飞版 (更新至08) - 低端影视",
+        "icon": "https://logo.clearbit.com/ddys.pro",
+        "url": "https://ddys.pro/3-body-problem/?ep=2"
       },
       {
         "type": "link",
@@ -1137,7 +2684,104 @@
         "title": "文字转语音 Luvvoice: Free Convert Text to Speech Online, No Word Limit",
         "icon": "https://logo.clearbit.com/luvvoice.com",
         "url": "https://luvvoice.com/"
+      },
+      {
+        "type": "link",
+        "addDate": 1723110416417,
+        "title": "huazhang-econ-mgt-book/货币金融学原书第2版.pdf at master · apachecn/huazhang-econ-mgt-book",
+        "icon": "https://logo.clearbit.com/github.com",
+        "url": "https://github.com/apachecn/huazhang-econ-mgt-book/blob/master/%E8%B4%A7%E5%B8%81%E9%87%91%E8%9E%8D%E5%AD%A6%E5%8E%9F%E4%B9%A6%E7%AC%AC2%E7%89%88.pdf"
+      },
+      {
+        "type": "folder",
+        "addDate": 1726104855050,
+        "title": "博客",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1726104842418,
+            "title": "卡瓦邦噶！ | 无法自制的人得不到自由。",
+            "icon": "https://logo.clearbit.com/www.kawabangga.com",
+            "url": "https://www.kawabangga.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1729647083999,
+            "title": "NOTE & BLOG - The personal blog for ✨但为君故",
+            "icon": "https://logo.clearbit.com/dreams.plus",
+            "url": "https://dreams.plus/"
+          },
+          {
+            "type": "link",
+            "addDate": 1731462564330,
+            "title": "Qida's Blog",
+            "icon": "https://logo.clearbit.com/qidawu.github.io",
+            "url": "https://qidawu.github.io/"
+          }
+        ]
+      },
+      {
+        "type": "folder",
+        "addDate": 1727143013975,
+        "title": "VsCode扩展",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1727142996956,
+            "title": "四开 - Visual Studio Marketplace --- Quarto - Visual Studio Marketplace",
+            "icon": "https://logo.clearbit.com/marketplace.visualstudio.com",
+            "url": "https://marketplace.visualstudio.com/items?itemName=quarto.quarto"
+          }
+        ]
+      },
+      {
+        "type": "link",
+        "addDate": 1729084180912,
+        "title": "夸克网盘分享",
+        "icon": "https://logo.clearbit.com/pan.quark.cn",
+        "url": "https://pan.quark.cn/s/48955f260dda#/list/share/2582878936304b368c9a7ca34991e02a-%E5%A5%87%E8%BF%B9%E7%88%B1%E6%83%85%E6%B8%B8%E6%88%8F%EF%BC%88%E6%9B%B4%E8%87%B308%EF%BC%89"
+      },
+      {
+        "type": "link",
+        "addDate": 1729134118936,
+        "title": "智能语音转字幕文本工具 WEIFENG2333/AsrTools: ✨ AsrTools: 智能语音转文字工具 | 高效批处理 | 用户友好界面 | 无需 GPU |支持 SRT/TXT 输出 | 让您的音频瞬间变成精确文字！",
+        "icon": "https://logo.clearbit.com/github.com",
+        "url": "https://github.com/WEIFENG2333/AsrTools"
+      },
+      {
+        "type": "link",
+        "addDate": 1730164824790,
+        "title": "国家地理信息公共服务平台 天地图",
+        "icon": "https://logo.clearbit.com/www.tianditu.gov.cn",
+        "url": "https://www.tianditu.gov.cn/"
+      },
+      {
+        "type": "folder",
+        "addDate": 1730445186660,
+        "title": "虚拟机",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1730445174844,
+            "title": "虚拟机里的Linux系统在NAT模式无法使用上网_ubuntu_zhisheng_blog-华为开发者空间",
+            "icon": "https://logo.clearbit.com/huaweicloud.csdn.net",
+            "url": "https://huaweicloud.csdn.net/6707ace5e2ce0119e0a1ddae.html?dp_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6NTI4Mjc0OCwiZXhwIjoxNzMwOTY0OTA3LCJpYXQiOjE3MzAzNjAxMDcsInVzZXJuYW1lIjoid2VpeGluXzM2MTkyMDUxIn0.GzlPmjPm6ViZ9JvG3RBNxbF79St0BOFvlzN060KyZ4I&spm=1001.2101.3001.6650.16&utm_medium=distribute.pc_relevant.none-task-blog-2~default~BlogCommendFromBaidu~activity-16-52611410-blog-78172094.235%5Ev43%5Epc_blog_bottom_relevance_base1&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2~default~BlogCommendFromBaidu~activity-16-52611410-blog-78172094.235%5Ev43%5Epc_blog_bottom_relevance_base1&utm_relevant_index=22"
+          },
+          {
+            "type": "link",
+            "addDate": 1730445189557,
+            "title": "虚拟机里的Linux系统在NAT模式无法使用上网_ubuntu_zhisheng_blog-华为开发者空间",
+            "icon": "https://logo.clearbit.com/huaweicloud.csdn.net",
+            "url": "https://huaweicloud.csdn.net/6707ace5e2ce0119e0a1ddae.html?dp_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6NTI4Mjc0OCwiZXhwIjoxNzMwOTY0OTA3LCJpYXQiOjE3MzAzNjAxMDcsInVzZXJuYW1lIjoid2VpeGluXzM2MTkyMDUxIn0.GzlPmjPm6ViZ9JvG3RBNxbF79St0BOFvlzN060KyZ4I&spm=1001.2101.3001.6650.16&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7Eactivity-16-52611410-blog-78172094.235%5Ev43%5Epc_blog_bottom_relevance_base1&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7Eactivity-16-52611410-blog-78172094.235%5Ev43%5Epc_blog_bottom_relevance_base1&utm_relevant_index=22"
+          }
+        ]
       }
     ]
+  },
+  {
+    "type": "folder",
+    "addDate": 1600475961564,
+    "title": "其他书签",
+    "children": []
   }
 ]
